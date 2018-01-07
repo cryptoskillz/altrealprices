@@ -1,0 +1,14 @@
+{
+  "data": [
+    [
+      "01/08/2017",
+      "Bitcoin Cash ",
+      "<script type=\'text/javascript\' src=\'https://files.coinmarketcap.com/static/widget/currency.js\'></script><div class=\'coinmarketcap-currency-widget\' data-currency=\'bitcoin-cash\' data-base=\'USD\' data-secondary='\BTC\' data-ticker=\'true\' data-rank=\'false\' data-marketcap=\'false\' data-volume=\'false\' data-stats=\'USD\' data-statsticker=\'false\'></div>",
+      "Complete",
+      "<a href=\'https://www.ledgerwallet.com/r/ab66?path=/products/ledger-nano-s&tracker=MY_TRACKER\' target=\'_blank\'>Yes</a>",
+      "<a href=\'https://www.coinbase.com/join\' target=\'_blank\'><i class=\'fa fa-money\' aria-hidden=\'true\'></i></a>",
+      "478558",
+      ''
+    ]
+  ]
+}
